@@ -1,4 +1,4 @@
-### PCR in siclico GMT ##
+### PCR in silico GMT ##
 ## Author: German Traglia
 ### Description PCR simulator (PCR in silico)
 
